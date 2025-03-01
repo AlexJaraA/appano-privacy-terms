@@ -1,2 +1,7 @@
-# appa-o-privacy-terms
-"Repositorio público que contiene la documentación legal de Appaño, incluyendo las Políticas de Privacidad y los Términos y Condiciones. Este repositorio facilita el acceso y la actualización de la información legal necesaria para el cumplimiento de requisitos en Play Store y para la transparencia con nuestros usuarios."
+# Appaño Legal Docs
+
+Este repositorio contiene las Políticas de Privacidad y los Términos y Condiciones de Appaño.
+
+## Derechos de autor
+
+Los documentos aquí incluidos están protegidos por derechos de autor. No se concede licencia de uso, reproducción ni distribución salvo autorización expresa. Estos textos están destinados exclusivamente al uso dentro de la aplicación Appaño y su publicación en plataformas oficiales (por ejemplo, Play Store).
