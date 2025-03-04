@@ -80,5 +80,11 @@ Ciertos datos no personales o agregados (por ejemplo, datos estadísticos sin tu
 ### 9. Cambios en la Política de Privacidad
 Podemos actualizar esta Política de Privacidad cuando sea necesario. Notificaremos a los usuarios sobre cambios significativos mediante la aplicación.
 
-### 9. Contacto
+### 10. Seguridad Infantil
+Appaño no está dirigida a menores de 13 años y no recopilamos información de niños sin consentimiento de sus padres o tutores.  
+Si un usuario reporta un caso de violencia hacia un menor, el equipo de Appaño puede proporcionar recursos y orientación para contactar a las autoridades competentes.  
+Para más información, visita nuestros [Estándares de Seguridad Infantil](https://alexjaraa.github.io/appano-privacy-terms/seguridad-infantil_Appano.md).
+
+
+### 11. Contacto
 Si tienes preguntas o inquietudes sobre esta Política de Privacidad, puedes contactarnos en **anillo.descentrando@uv.cl**.
