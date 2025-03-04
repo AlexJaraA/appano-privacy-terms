@@ -4,6 +4,8 @@
 Al utilizar la aplicación **Appaño**, aceptas cumplir con estos Términos y Condiciones, así como con nuestra Política de Privacidad. Si no estás de acuerdo, no utilices la aplicación.
 
 ### 2. Uso de la Aplicación
+**Appaño** no está dirigida a menores de 13 años. Si necesitas información sobre cómo manejamos la seguridad infantil, visita nuestros [Estándares de Seguridad Infantil](https://alexjaraa.github.io/appano-privacy-terms/seguridad-infantil_Appano.md).
+
 **Appaño** está diseñada para reportar situaciones de violencia de género de manera segura y confidencial. Los usuarios deben:
 - Proporcionar información precisa y verídica.
 - No utilizar la aplicación para realizar denuncias falsas o malintencionadas.
