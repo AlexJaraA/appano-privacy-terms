@@ -1,4 +1,3 @@
-
 ## Política de Privacidad
 
 ### 1. Introducción
