@@ -2,7 +2,7 @@
 ## Política de Privacidad
 
 ### 1. Introducción
-En **Appaño**, valoramos tu privacidad y estamos comprometidos con la protección de tus datos personales. Esta Política de Privacidad entra en vigencia el 31/01/2025 y explica cómo recopilamos, usamos y compartimos tu información.
+En **Appaño**, valoramos tu privacidad y estamos comprometidos con la protección de tus datos personales. Esta Política de Privacidad entra en vigencia el 01/02/2025 y explica cómo recopilamos, usamos y compartimos tu información.
 
 ### 2. Información que Recopilamos
 Recopilamos los siguientes datos personales:
@@ -62,7 +62,23 @@ Tienes derecho a:
 
 Para ejercer estos derechos, contáctanos a través de **anillo.descentrando@uv.cl**.
 
-### 8. Cambios en la Política de Privacidad
+### 8. Eliminación de la Cuenta y Retención de Datos
+
+- **Solicitud de eliminación**
+Puedes solicitar la eliminación de tu cuenta en cualquier momento escribiéndonos a anillo.descentrando@uv.cl con el asunto “Eliminar cuenta” e indicando el correo o alias que utilizaste al registrarte.
+
+- **Plazos de eliminación**
+Tras recibir tu solicitud, eliminaremos tus datos personales (nombre, alias, contraseña, teléfono, correo, etc.) de nuestros sistemas en un plazo razonable (normalmente en un máximo de 30 días), a menos que estemos obligados legalmente a conservarlos.
+
+- **Reportes de violencia de género**
+Los datos de reportes se utilizan con fines estadísticos y para generar información relevante a la comunidad.
+  - Si solicitaste la eliminación de tu cuenta, anonimizaremos los datos de tus reportes de modo que no se puedan vincular a tu identidad (eliminando alias, correo o cualquier referencia personal).
+  - Conservaremos los reportes en forma anónima para fines estadísticos y para no perder información valiosa sobre la situación de la violencia de género.
+ 
+- **Datos no personales**
+Ciertos datos no personales o agregados (por ejemplo, datos estadísticos sin tu identidad) pueden conservarse por más tiempo para fines de análisis o informes, siempre cumpliendo con la normativa correspondiente.
+
+### 9. Cambios en la Política de Privacidad
 Podemos actualizar esta Política de Privacidad cuando sea necesario. Notificaremos a los usuarios sobre cambios significativos mediante la aplicación.
 
 ### 9. Contacto
