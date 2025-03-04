@@ -15,7 +15,7 @@ Al utilizar la aplicación **Appaño**, aceptas cumplir con estos Términos y Co
 - Debes notificar de inmediato cualquier acceso no autorizado o uso indebido de tu cuenta.
 
 ### 4. Recopilación de Datos y Privacidad
-**Appaño** recopila información personal según lo establecido en nuestra [Política de Privacidad](#). Esto incluye:
+**Appaño** recopila información personal según lo establecido en nuestra [Política de Privacidad](https://alexjaraa.github.io/appano-privacy-terms/Politica_de_Privacidad_Appano.md). Esto incluye:
 - Datos del formulario de registro (por ejemplo, nombre o alias, contraseña, etc.).
 - Datos relacionados con los reportes de violencia de género (tipo de violencia, lugar, fecha, etc.).
 
