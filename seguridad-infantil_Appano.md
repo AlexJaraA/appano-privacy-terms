@@ -1,5 +1,5 @@
 Estándares de Seguridad Infantil – Appaño
-Última actualización: [fecha]
+Última actualización: [04/03/2025]
 
 1. Propósito de Appaño
 Appaño es una aplicación diseñada para que personas mayores de 13 años puedan reportar situaciones de violencia de género de forma anónima y segura. No es una plataforma de redes sociales ni de citas, y no está destinada para la comunicación entre usuarios.
