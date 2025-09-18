@@ -34,7 +34,7 @@ Utilizamos tus datos para los siguientes fines:
 - Generar gráficos analíticos basados en los reportes de violencia de género para proporcionar información relevante a la comunidad. Estos gráficos también estarán disponibles en el sitio web [descentrando.cl/observatorio](https://descentrando.cl/observatorio).
 
 ### 4. Servicios de Terceros
-Utilizamos servicios de terceros para ciertas funcionalidades, como el envío de correos electrónicos a través de **Twilio**. Compartimos únicamente la información necesaria (correo electrónico) para cumplir con estos fines.
+Utilizamos servicios de terceros para ciertas funcionalidades, como el envío de correos electrónicos a través de **Gmail**. Compartimos únicamente la información necesaria (correo electrónico) para cumplir con estos fines.
 
 #### Tecnologías de Seguimiento
 Nuestra aplicación utiliza **expo-secure-store** para almacenar información localmente en el dispositivo de forma segura. No utilizamos otras tecnologías de seguimiento como cookies o Local Storage.
@@ -63,16 +63,21 @@ Para ejercer estos derechos, contáctanos a través de **anillo.descentrando@uv.
 
 ### 8. Eliminación de la Cuenta y Retención de Datos
 
-- **Solicitud de eliminación**
+- **Eliminación dentro de la app (autogestionada):**
+Puedes eliminar tu cuenta desde la aplicación, sin necesidad de contactarnos. Ruta: Mi Actividad → menú (⋮) →  “Perfil” → “Eliminar cuenta” → Confirmar.
+La eliminación es inmediata e irreversible. Al confirmar, revocamos todas tus sesiones y tokens de acceso. Procedemos a eliminar de forma permanente (hard delete) tu registro de usuario y credenciales (nombre/alias, correo, teléfono, contraseña, comunidad y, si aplican, pregunta y respuesta secreta). 
+
+- **Reportes de violencia de género asociados:**
+Conservamos los reportes solo en forma anonimizada, para mantener la utilidad estadística y sin posibilidad de vincularlos contigo:
+Se elimina cualquier referencia directa al usuario en los reportes (por ejemplo, reported_by pasa a NULL).
+Se remueven/anonimizan PII asociada al reporte (p. ej., correo/teléfono/alias del reportante), y se reemplaza por un alias genérico como “deleted-user”.
+Los datos agregados (por ejemplo, tipo de violencia, lugar, rango de edad, horario, comunidad) se conservan anonimizados para fines estadísticos y para visibilizar la problemática de la violencia de género.
+
+- **Respaldo y registros técnicos:**
+Podrían persistir por un tiempo limitado algunos registros técnicos (p. ej., logs de seguridad, copias de seguridad rotativas) únicamente para garantizar la integridad del servicio, la detección de fraudes o el cumplimiento normativo. Estos respaldos se purgan siguiendo ciclos operativos y no se utilizan para reactivar tu cuenta ni para fines distintos a los mencionados.
+
+- **Eliminación por solicitud (vía correo):**
 Puedes solicitar la eliminación de tu cuenta en cualquier momento escribiéndonos a anillo.descentrando@uv.cl con el asunto “Eliminar cuenta” e indicando el correo o alias que utilizaste al registrarte.
-
-- **Plazos de eliminación**
-Tras recibir tu solicitud, eliminaremos tus datos personales (nombre, alias, contraseña, teléfono, correo, etc.) de nuestros sistemas en un plazo razonable (normalmente en un máximo de 30 días), a menos que estemos obligados legalmente a conservarlos.
-
-- **Reportes de violencia de género**
-Los datos de reportes se utilizan con fines estadísticos y para generar información relevante a la comunidad.
-  - Si solicitaste la eliminación de tu cuenta, anonimizaremos los datos de tus reportes de modo que no se puedan vincular a tu identidad (eliminando alias, correo o cualquier referencia personal).
-  - Conservaremos los reportes en forma anónima para fines estadísticos y para no perder información valiosa sobre la situación de la violencia de género.
  
 - **Datos no personales**
 Ciertos datos no personales o agregados (por ejemplo, datos estadísticos sin tu identidad) pueden conservarse por más tiempo para fines de análisis o informes, siempre cumpliendo con la normativa correspondiente.
@@ -88,3 +93,4 @@ Para más información, visita nuestros [Estándares de Seguridad Infantil](http
 
 ### 11. Contacto
 Si tienes preguntas o inquietudes sobre esta Política de Privacidad, puedes contactarnos en **anillo.descentrando@uv.cl**.
+
